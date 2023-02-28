@@ -1,2 +1,6 @@
 it was the age of wisdom it was the age of foolishness
+<<<<<<< HEAD
 There was a time of war
+=======
+the story will have a second part
+>>>>>>> 507a0c7e0ddf875a1bb95138ba565c9da222b494
